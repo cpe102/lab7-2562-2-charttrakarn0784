@@ -20,7 +20,7 @@ int main()
         }else{
             cout << "How much money do you have?: ";
             cin >> money;
-            if(money > 69)
+            if(money > 69000000)
             {
                 status = "MARRIED";
             }else{
@@ -31,7 +31,7 @@ int main()
     {
         cout << "How much money do you have?: ";
             cin >> money;
-            if(money > 10)
+            if(money > 10000000)
             {
                 status = "BEST FRIEND";
             }else{
